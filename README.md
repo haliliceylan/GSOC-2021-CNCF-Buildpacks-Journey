@@ -18,9 +18,12 @@ During the GSOC, I had the opportunity to contribute to the following PR's first
 
 - **buildpacks/rfcs** - [Prepare Phase Draft RFC](https://github.com/haliliceylan/rfcs/pull/1) [UNCOMPLETED]
 
-"Buildpacks" are a kind of framework for preparing a container environment for your apps. "Lifecycle" is the program responsible for executing buildpacks in the build time environment. In this issue we covered the new "prepare phase". But we decieded to change course upon realizing that the "prepare phase" had too much uncertainty and complexity to be a good summer project. So this issue is uncompleted. But you can reach useful information in draft pr.
+"Buildpacks" are a kind of framework for preparing a container environment for your apps. "Lifecycle" is the program responsible for executing buildpacks in the build time environment. In this issue we covered the new "prepare phase". But we decieded to change course upon realizing that the "prepare phase" had too much uncertainty and complexity to be a good summer project. So this issue is **uncompleted**. But you can reach useful information in draft pr.
 
 - **buildpacks/rfcs** - [Project TOML Conveter RFC](https://github.com/buildpacks/rfcs/pull/182)
+
+The idea is to ship a binary with the lifecycle that would be responsible for translating project.toml from the schema defined in the project descriptor extension spec into something that the lifecycle knows the platform can understand i.e., a schema defined in the platform spec.
+
 - **buildpacks/lifecycle** - [Adds acceptance tests for builder](https://github.com/buildpacks/lifecycle/pull/648)
 - **buildpacks/pack** - [Pack loses the names of buildpacks](https://github.com/buildpacks/pack/pull/1253)
 - **buildpacks/katacoda-scenarios** - [make changes according to new pack cmd](https://github.com/buildpacks/katacoda-scenarios/pull/6)
