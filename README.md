@@ -19,6 +19,8 @@ Hi everyone, I am Halil, 3rd year computer engineering student at Mugla Sitki Ko
 I will share some information about what I did and couldn't finish on time. This information may be helpful for other students who want to continue or use or extend my project. Within the scope of GSOC, I had the opportunity to contribute to many different aspects of the Buildpacks project.
 
 
+### Contributions
+----
 During the GSOC, I had the opportunity to contribute to the following PR's first hand:
 
 - **buildpacks/rfcs** - [Prepare Phase Draft RFC](https://github.com/haliliceylan/rfcs/pull/1) [UNCOMPLETED]
