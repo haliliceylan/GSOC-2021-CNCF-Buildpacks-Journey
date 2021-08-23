@@ -4,11 +4,11 @@
 
 ### Personal Info
 
-First Name: Halil Ibrahim
+**First Name:** Halil Ibrahim
 
-Last Name: Ceylan
+**Last Name:** Ceylan
 
-GSOC Link: https://summerofcode.withgoogle.com/dashboard/project/4873238770876416/overview/
+**GSOC Link:** https://summerofcode.withgoogle.com/dashboard/project/4873238770876416/overview/
 ### Special Thanks
 I can't thank my mentor Natalie enough for giving the most explanatory answers to even the simplest questions during this program. Throughout this program, she has been with me in all kinds of problems inside and outside of GSOC. Apart from my mentor, I would like to thank all the Buildpacks supporters who helped me on this journey, especially Anthony, Javier, Yael, who are part of Buildpacks.
 
