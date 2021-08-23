@@ -2,7 +2,7 @@
 # GSOC 2021 CNCF Buildpacks Journey
 
 ### Special Thanks
-I can't thank my mentor Natalie enough for giving the most explanatory answers to even the simplest questions during this program. Throughout this program, he has been with me in all kinds of problems inside and outside of GSOC. Apart from my mentor, I would like to thank all the Buildpacks supporters who helped me on this journey, especially Anthony, Javier, Yael, who are part of Buildpacks.
+I can't thank my mentor Natalie enough for giving the most explanatory answers to even the simplest questions during this program. Throughout this program, she has been with me in all kinds of problems inside and outside of GSOC. Apart from my mentor, I would like to thank all the Buildpacks supporters who helped me on this journey, especially Anthony, Javier, Yael, who are part of Buildpacks.
 
 ### Introduce
 Hi everyone, I am Halil, 3rd year computer engineering student at Mugla Sitki Kocman University. This summer I experienced a very exciting and learnful program with GSoC.
